@@ -2,7 +2,7 @@ var password = "saadain123";
 var linkedin = "https://www.linkedin.com/in/saadaink";
 var instagram = "https://www.instagram.com/khan.saadain/";
 var github = "https://github.com/Saadain23/";
-var resume = "https://drive.google.com/file/d/1sMsHOy0MoPMUrXRiYviguodGtIsqG2rQ/view?usp=sharing"
+var resume = "https://drive.google.com/file/d/1oZW3jstHCtzblfG0RWAkavK18lddZuKt/view?usp=sharing"
 var email = 'mailto:saadaink23@gmail.com';
 
 whois = [
